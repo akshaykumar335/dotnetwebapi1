@@ -10,7 +10,7 @@ namespace dotnetwebapi1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home title Page Add";
 
             return View();
         }
